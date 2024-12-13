@@ -10,7 +10,7 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 **1.Master(Root Window)** the main container where everything else will be placed.
 
-**2.Widgets**
+**2.Widgets**:
 
   **A.Label:** Displays text or images
 
@@ -22,7 +22,7 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
   
   **E.Scrollbar:** For scrolling content.
   
-**3.Managing the Layout of widgets**
+**3.Managing the Layout of widgets**:
 
   **A..pack():** Places widgets in a vertical or horizontal line.
 
@@ -34,7 +34,7 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 5.**Pillow Library** The developer use Pillow library to be able input images in the application.
 
-6.**Application Structure**
+6.**Application Structure**:
 
   **A.Constructor** (__init__):
 
@@ -63,7 +63,7 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 2.**Creating a Cursor** Once connected, the script creates a cursor. It helps to execute SQL queries and fetch results from the database.
 
-3.**Inserting Data (Commented Out)**
+3.**Inserting Data (Commented Out)**:
   
   **Category:** This would insert data like "Mammals", "Plants", and "Ocean Fishes".
   
@@ -113,9 +113,9 @@ In conclusion, EcoSeas is a powerful tool for promoting sustainability by aligni
   
   Select any species from the list, and you’ll see:
   
-    A detailed description of that species.
+	A detailed description of that species.
     
-    If available, a photo of the species will also show up.
+	If available, a photo of the species will also show up.
     
 3.**Learn About Environmental Threats:**
 
