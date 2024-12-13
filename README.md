@@ -8,7 +8,7 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 **II.1 Python Tkinter**
 
-1.**Master(Root Window)**the main container where everything else will be placed.
+**1.Master(Root Window)** the main container where everything else will be placed.
 
 **2.Widgets**
 
