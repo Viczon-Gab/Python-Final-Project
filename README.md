@@ -63,17 +63,17 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 2.**Creating a Cursor** Once connected, the script creates a cursor. It helps to execute SQL queries and fetch results from the database.
 
-3.**Inserting Data (Commented Out) **
+3.**Inserting Data (Commented Out)**
   
-  Category: This would insert data like "Mammals", "Plants", and "Ocean Fishes".
+  **Category:** This would insert data like "Mammals", "Plants", and "Ocean Fishes".
   
-  Species: This would insert information about various species.
+  **Species:** This would insert information about various species.
   
-  Threats: This would insert different environmental threats like "Plastic Pollution" and "Climate Change".
+  **Threats:** This would insert different environmental threats like "Plastic Pollution" and "Climate Change".
  
-  Conservation Tips: This would insert helpful tips, such as "Reduce Plastic Usage" and "Support Sustainable Seafood".
+  **Conservation Tips:** This would insert helpful tips, such as "Reduce Plastic Usage" and "Support Sustainable Seafood".
   
-  Quizzes: This would insert quiz data with questions about the species.
+  **Quizzes**: This would insert quiz data with questions about the species.
 
 4.**Fetching Data** The script then retrieves all the data from each of the five tables:
   
