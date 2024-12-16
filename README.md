@@ -87,16 +87,13 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 **III.SUSTAINABLE DEVELOPMENT GOALS**
 
-**EcoSeas** is an application designed to actively contribute to global sustainability by focusing on key Sustainable Development Goals (SDGs). One of the primary goals it supports is **SDG 14: Life Below Water**, which aims to protect and sustainably manage oceans, seas, and marine resources. EcoSeas educates users about marine life through detailed species profiles and highlights the threats facing oceans, such as plastic pollution, overfishing, and climate change. By encouraging sustainable behaviors like reducing plastic use and supporting sustainable fishing, the app empowers users to take actionable steps to protect marine ecosystems.
+**EcoSeas** is an application designed to actively contribute to global sustainability by focusing on key Sustainable Development Goals (SDGs). One of the primary goals it supports is **SDG 14: Life Below Water**
 
-EcoSeas also aligns with **SDG 12: Responsible Consumption and Production**, promoting sustainable consumption patterns. The app provides users with practical advice on making eco-friendly choices, such as reducing single-use plastics and opting for businesses with sustainable practices. This directly contributes to a more responsible consumption model, encouraging users to minimize their environmental impact. Furthermore, the app supports **SDG 13: Climate Action** by educating users on how climate change affects marine life and urging them to reduce their carbon footprints to mitigate its impacts.
+EcoSeas also aligns with **SDG 12: Responsible Consumption and Production**, promoting sustainable consumption patterns. 
 
-In addition to promoting environmental action, EcoSeas supports **SDG 4: Quality Education** by providing interactive learning experiences. The app offers fun facts, quizzes, and detailed educational content on marine life, making learning accessible. By raising awareness about environmental issues and their consequences, EcoSeas helps foster a sense of responsibility toward protecting the planet.
+EcoSeas supports **SDG 4: Quality Education** by providing interactive learning experiences. The app offers fun facts, quizzes, and detailed educational content on marine life, making learning accessible.
 
-EcoSeas also contributes to **SDG 15: Life on Land**, emphasizing the interconnectedness of land and marine ecosystems. By highlighting how protecting the oceans contributes to the health of the entire planet, the app encourages users to take a holistic approach to environmental conservation.
-
-In conclusion, EcoSeas is a powerful tool for promoting sustainability by aligning with multiple SDGs. Through education, and actionable tips, the app empowers users to make informed decisions that protect the environment and ensure a sustainable future for generations to come.
-
+EcoSeas also contributes to **SDG 15: Life on Land**, emphasizing the interconnectedness of land and marine ecosystems. 
 
 
 **IV.PROGRAM/SYSTEM INSTRUCTIONS**
