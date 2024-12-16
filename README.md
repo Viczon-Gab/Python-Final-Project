@@ -85,15 +85,15 @@ The EcoSeas app is designed to inspire and educate people about the incredible w
 
 
 
+
 **III.SUSTAINABLE DEVELOPMENT GOALS**
 
 **EcoSeas** is an application designed to actively contribute to global sustainability by focusing on key Sustainable Development Goals (SDGs). One of the primary goals it supports is **SDG 14: Life Below Water**
-
 EcoSeas also aligns with **SDG 12: Responsible Consumption and Production**, promoting sustainable consumption patterns. 
-
 EcoSeas supports **SDG 4: Quality Education** by providing interactive learning experiences. The app offers fun facts, quizzes, and detailed educational content on marine life, making learning accessible.
-
 EcoSeas also contributes to **SDG 15: Life on Land**, emphasizing the interconnectedness of land and marine ecosystems. 
+
+
 
 
 **IV.PROGRAM/SYSTEM INSTRUCTIONS**
